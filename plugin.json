@@ -1,0 +1,10 @@
+{
+  "apiVersion": 1,
+  "id": "krkonoskewellness",
+  "name": "Krkonoše Wellness",
+  "description": "Readable approval presentations for Krkonoše Wellness MCP tools.",
+  "version": "1.0.0",
+  "normalizationVersion": 2,
+  "entry": "plugin.mjs",
+  "sha256": "5061243bbe8a65061bfa87213aa85da2e8150649529a88976060d99dc3b16975"
+}
